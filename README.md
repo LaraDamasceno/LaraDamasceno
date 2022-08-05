@@ -3,6 +3,7 @@
 
 
 ![Lara GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraDamasceno&show_icons=true&theme=tokyonight)<div style="display: inline_block">
+<img width="150" src="https://c.tenor.com/ePPYHfoe2u4AAAAd/viktor-arcane.gif"><br>
 
 
 ## Tecnologias que uso com mais frequência
