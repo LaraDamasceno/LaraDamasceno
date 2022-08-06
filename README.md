@@ -2,7 +2,7 @@
 #
 
 ![Lara GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraDamasceno&show_icons=true&theme=tokyonight)
-#
+
 
 ## Tecnologias que uso com mais frequência
 
