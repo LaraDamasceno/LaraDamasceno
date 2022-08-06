@@ -2,7 +2,8 @@
 #
 
 
-![Lara GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraDamasceno&show_icons=true&theme=tokyonight)<div style="display: inline_block">
+![Lara GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraDamasceno&show_icons=true&theme=tokyonight)<div style="display: inline_block">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraDamasceno&layout=compact)](https://github.com/LaraDamasceno/github-readme-stats)
+
 <img width="150" src="https://c.tenor.com/ePPYHfoe2u4AAAAd/viktor-arcane.gif"><br>
 
 
